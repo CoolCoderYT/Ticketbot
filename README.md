@@ -1,10 +1,9 @@
 # Discord-ticketbot
-
-Bored of seeing those paid Discord ticket bots out there? You finally have a chance to self-host your own ticket bot just for free. This bot is exactly like that, it can create tickets, close tickets, add people in the ticket and lots more if you intend to modify it. After all it has the MIT license.
+Feel free to Self-Host this bot :D
 
 # Installation
 
-npm install(make sure the package.json is there)
+npm install (make sure the package.json is there)
 
 # Setup
 
